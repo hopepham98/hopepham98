@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hopepham98
 - 👀 I’m interested in design and traveling.
-- 🌱 I’m currently learning Interaction design.
+- 🌱 I’m currently learning Interaction Design.
 - 📫 How to reach me @hope_pham on Instagram.
 
 <!---
